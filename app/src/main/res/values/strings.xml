@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jdamcdCropExample</string>
+    <string name="action_settings">Settings</string>
+    <string name="i1">Clear Image</string>
+    <string name="i2">Rotate Image</string>
+
+
+</resources>
